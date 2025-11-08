@@ -5,10 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FFF6,100:8A2BE2&text=⚙️%20Project%20DyexaHub%20Universe%20⚙️&fontAlign=50&fontAlignY=60&fontColor=FFFFFF&fontSize=35&animation=twinkling" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFF6&center=true&vCenter=true&width=900&lines=🧠+Project+Codename:+NEURAL+NODE;⚙️+Developed+by+Andre+(DyexaHub);💀+System+Powered+by+Futuristic+Engineering" alt="Typing Animation" />
-</p>
-
 ---
 
 ## 🚀 INTRODUCTION
